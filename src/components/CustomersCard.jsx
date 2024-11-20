@@ -14,7 +14,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
-import { OpenIcon, ViewIcon, ExportIcon, RemoveIcon } from "@/components/icons";
+import { OpenIcon, ViewIcon, ExportIcon, RemoveIcon } from "@/components/Icons";
 import { DailyCustomersCard } from "@/components/DailyCustomersCard";
 import { WeeklyCustomerCard } from "@/components/WeeklyCustomerCard";
 
